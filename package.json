@@ -1,0 +1,24 @@
+{
+  "name": "@arfajarsetiaji/eslint-config-react",
+  "version": "0.0.1",
+  "description": "Ar Fajar Setiaji's ESlint config for React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arfajarsetiaji/eslint-config-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "react"
+  ],
+  "author": "Ar Fajar Setiaji <arfajarsetiaji.id@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arfajarsetiaji/eslint-config-react/issues"
+  },
+  "homepage": "https://github.com/arfajarsetiaji/eslint-config-react#readme"
+}
